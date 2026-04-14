@@ -15,6 +15,9 @@ pip install -r requirements.txt
 ```
 
 ## Data Preparation
+- **UOD Dataset**: [Download Link](https://github.com/liujiahui1998/UnderwaterDataset)
+- **UTDAC2020 Dataset**: [Download Link](https://github.com/mousecpn/Collection-of-Underwater-Object-Detection-Dataset)
+
 Prepare the UOD and UTDAC2020 dataset in the following structure:
 ```
 stqsdetr_pytorch/dataset/UOD/
